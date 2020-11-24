@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2015\Projects\Brief_cSharp\Brief_cSharp\bin\Debug\Brief_cSharp.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\Brief_cSharp\Brief_cSharp\obj\Debug\Brief_cSharp.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\Brief_cSharp\Brief_cSharp\obj\Debug\Brief_cSharp.Formulaire.resources
+c:\users\admin\documents\visual studio 2015\Projects\Brief_cSharp\Brief_cSharp\obj\Debug\Brief_cSharp.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\Brief_cSharp\Brief_cSharp\obj\Debug\Brief_cSharp.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\Brief_cSharp\Brief_cSharp\bin\Debug\Brief_cSharp.exe
+c:\users\admin\documents\visual studio 2015\Projects\Brief_cSharp\Brief_cSharp\bin\Debug\Brief_cSharp.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Brief_cSharp\Brief_cSharp\obj\Debug\Brief_cSharp.exe
+c:\users\admin\documents\visual studio 2015\Projects\Brief_cSharp\Brief_cSharp\obj\Debug\Brief_cSharp.pdb
